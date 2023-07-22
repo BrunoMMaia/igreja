@@ -35,13 +35,12 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-full">
-                    <List text="Você pode contribuir através do PIX. É fácil e rápido." />
-                    <p className="flex items-center text-lg font-medium text-body-color">
-                      Igreja Batista Nova Alianca
-                    </p>
-                    <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-                      Banco Itaú : Chave: CNPJ 06.327.694/0001-52
-                    </p>
+                    <List text="Contribua facilmente através do PIX no Banco Itaú usando a chave CNPJ 06.327.694/0001-52." />
+              
+                    <List text="Encontros: Contribua durante nossos encontros usando envelopes. Nossos voluntários estão disponíveis para ajudar se necessário." />
+
+                    <List text="Cartão de crédito: Contribua durante o culto nos balcões designados. Nossa equipe estará lá para ajudar com qualquer dúvida." />
+
                   </div>
                 </div>
               </div>
