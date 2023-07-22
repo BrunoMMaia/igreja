@@ -94,38 +94,44 @@ const Footer = () => {
 
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
-                {/* <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Links
+                <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
+                  Venha nos visitar
                 </h2>
                 <ul>
                   <li>
-                    <a
+                    {/* <a
                       href="/"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
                       Jovens{" "}
-                    </a>
+                    </a> */}
+
+                    Sexta-feira 20hrs - Culto adolescentes
                   </li>
                   <li>
-                    <a
+                    {/* <a
                       href="/"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
                       Teens{" "}
-                    </a>
+                    </a> */}
+
+                    Sábado 20hrs - Culto Jovens
                   </li>
                   <li>
-                    <a
+                    {/* <a
                       href="/"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
                       Mulheres {" "}
-                    </a>
+                    </a> */}
+
+                    Domingo 18hrs - Culto da Família
                   </li>
-                  <li>
+                  {/* <li>
                     <a
                       href="/"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
@@ -133,8 +139,8 @@ const Footer = () => {
                       {" "}
                       Homens {" "}
                     </a>
-                  </li>                  
-                </ul> */}
+                  </li>*/}
+                </ul>
               </div>
             </div>
 

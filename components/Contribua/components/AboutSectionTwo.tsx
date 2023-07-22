@@ -1,10 +1,13 @@
 import SectionTitle from "@/components/Common/SectionTitle";
 import Image from "next/image";
-
 const AboutSectionTwo = () => {
+
+ 
+
   return (
     <section className="py-16 md:py-20 lg:py-28">
       <div className="container">
+
 
       <SectionTitle
           title="Próximos desafios"
@@ -30,10 +33,10 @@ const AboutSectionTwo = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <div>
-                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  <h3 className="font-xl mb-10 ml-4 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   NOVA SEDE
                   </h3>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p className="mb-8 text-base ml-4 font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Estamos nos mudando para um espaço novo, muito maior e com mais estruturas. Barracão que
                     comporta mais de 2000 pessoas, banheiros, fraldário, cozinhas, refeitório, espaço gourmet,
                     espaço kids, salas comerciais, amplo estacionamento. Para isso, temos um compromisso
@@ -41,20 +44,20 @@ const AboutSectionTwo = () => {
                   </p>
               
 
-                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  <h3 className="font-xl mb-10 ml-4 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   MUDANÇA
                   </h3>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p className="mb-8 text-base ml-4 font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Por ser um espaço maior que anteriormente era um auto shopping, temos como demanda
                   fazer todo processo de transição para uma Igreja. Para isso, será necessário a compra de 400
                   cadeiras, construção de palco, compra de novos equipamentos audiovisuais, iluminação,
                   transmissão, caixa altas para fachadas, entre outros.
                   </p>
 
-                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  <h3 className="font-xl mb-10 ml-4 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   LIVRARIA E ESPAÇO GOURMET
                   </h3>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p className="mb-8 ml-4 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Temos como sonho, montar uma livraria própria da Igreja Avance. Entendemos a importância
                   de material para crescimento e avanço, e como Igreja queremos oferecer as melhores
                   ferramentas para isso. E também, um espaço gourmet para momentos de comunhão,
@@ -62,17 +65,17 @@ const AboutSectionTwo = () => {
                   </p>
 
 
-                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  <h3 className="font-xl mb-10  ml-4 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   MANUTENÇÃO
                   </h3>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p className="mb-8 text-base ml-4 font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Segurança, limpeza, administração, e demais serviços como água, luz, internet, para um bom funcionamento do local.
                   </p>
 
-                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  <h3 className="font-xl mb-10 ml-4 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   AÇÕES SOCIAIS E EVANGELISMO
                   </h3>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p className="mb-8 ml-4 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Saímos da região do Bairro Novo para o Xaxim, mas continuamos entendendo a
 responsabilidade social e evangelística da Igreja com a comunidade.
                   </p>
